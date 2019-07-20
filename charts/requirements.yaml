@@ -1,0 +1,7 @@
+dependencies:
+  - name: webfrontend
+    version: 0.1.0
+    repository: "file://../webfrontend/webfrontend/charts/webfrontend"
+  - name: mywebapi
+    version: 0.1.0
+    repository: "file://../mywebapi/mywebapi/charts/mywebapi"

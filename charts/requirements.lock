@@ -1,0 +1,9 @@
+dependencies:
+- name: webfrontend
+  repository: file://../webfrontend/webfrontend/charts/webfrontend
+  version: 0.1.0
+- name: mywebapi
+  repository: file://../mywebapi/mywebapi/charts/mywebapi
+  version: 0.1.0
+digest: sha256:53a7021a89fead5f097aacd1a949905bd8dc36255f97a86030d72a42204eb974
+generated: "2019-07-20T12:19:50.1114344+01:00"
